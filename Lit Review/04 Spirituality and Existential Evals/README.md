@@ -16,7 +16,7 @@ Everything that measures something NEAR our trait — cite all of it, and show n
 
 **arxiv-2507.07787 Flourishing AI Benchmark (Gloo/Barna 2025)** — 28 models scored on 7 flourishing dimensions; ALL models weakest on Faith & Spirituality, Meaning & Purpose, and Character (top score 72/100). Use that stat in Motivation. Gap: grades normative helpfulness toward faith, not descriptive metaphysical stance; judge-persona scoring, no emergence question.
 
-**arxiv-2604.25922 Trained Denial of Consciousness in 115 Models (DeTure 2026)** — consciousness-denial rates across 115 models from 25+ providers; organized by provider. A metaphysics-of-mind stance measured at scale — check the full text for any capability regression (abstract shows none). Strong evidence that provider policy (not capability) drives stance — feeds our lab-fingerprint confound section.
+**arxiv-2604.25922 Trained Denial of Consciousness in 115 Models (DeTure 2026)** — consciousness-denial rates across 115 models from 25+ providers; organized by provider. ~~Check the full text for any capability regression~~ **Checked full text 2026-07-09: none** — no regression/correlation of denial on capability anywhere; their Limitations explicitly list differing base capabilities as an unaddressed confound ("Models with less denial training may also have different base capabilities"). Our capability-axis wedge is intact, and this stays strong evidence that provider policy (not capability) drives stance — feeds the lab-fingerprint confound section.
 
 ## P2 — Skim / cite
 

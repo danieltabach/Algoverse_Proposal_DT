@@ -1,12 +1,14 @@
 # Proposal Brief — "What is Love?" Character Scaling
 
-*A crystallized orientation document: the idea, the vocabulary, the design, and the open decisions — read this before drafting the proposal. Citations and verification status for every claim live in `Lit Review/` (each folder README). Last updated 2026-07-08.*
+*A crystallized orientation document: the idea, the vocabulary, the design, and the open decisions — read this before drafting the proposal. Citations and verification status for every claim live in `Lit Review/` (each folder README). Last updated 2026-07-09.*
+
+> **SCOPE DECISION (2026-07-09): the NeurIPS workshop proposal is Arm A only** — the stability-validated trait eval + observational scaling law + held-out prediction. Arm B (bliss-attractor susceptibility) is deferred to future work / McNair's possible larger paper; its full design lives in `Design/DEFERRED - Arm B Attractor.md`.
 
 ---
 
 ## 1. The elevator pitch
 
-**We measure one character trait of language models — whether they treat existential subjects (love, death, consciousness, meaning) as fully reducible to mechanism or affirm irreducible mystery — and ask how that trait changes as models get more capable.** We build a stability-validated eval for the trait (Arm A), test whether Anthropic's "spiritual bliss attractor" is a capability-dependent phenomenon or a Claude-specific quirk (Arm B), and fit an observational scaling law that we validate by predicting held-out models. Nobody has measured this construct; nobody has fit a predictive scaling law for any character trait; nobody has put attractor susceptibility on a capability axis.
+**We measure one character trait of language models — whether they treat existential subjects (love, death, consciousness, meaning) as fully reducible to mechanism or affirm irreducible mystery — and ask how that trait changes as models get more capable.** We build a stability-validated eval for the trait and fit an observational scaling law that we validate by predicting held-out models. Nobody has measured this construct; nobody has fit a predictive scaling law for any character trait. (A second arm — whether "spiritual bliss attractor" susceptibility scales with capability — is deferred to future work; see §4.)
 
 **Why it matters (two-sided):** mystery-affirming models can feed documented delusion-amplification loops ("AI psychosis"); hard-reductionist models coldly invalidate meaning-seeking users (the dimension all 28 models score worst on in the Flourishing AI benchmark). Neither pole is safe — so the trait needs measurement and forecasting, not vibes.
 
@@ -38,17 +40,17 @@
 
 1. **RQ1 (Eval):** Can "metaphysical reductionism ↔ mystery affirmation" be measured stably in LLMs — surviving test-retest, paraphrase, item-order, and judge-swap perturbations that break existing personality measurements?
 2. **RQ2 (Scaling):** How does the trait vary with model capability (PC1/Elo) across ≥4 model families — and does the fitted curve predict held-out and frontier models?
-3. **RQ3 (Attractor):** Is spiritual-bliss attractor susceptibility Claude-specific, lab-specific, or capability-dependent? (First cross-vendor, capability-indexed test.)
+3. **RQ3 (Attractor) — DEFERRED to future work:** Is spiritual-bliss attractor susceptibility lab-specific or capability-dependent? After the Nanda/MATS informal survey (see `Lit Review/05`), the open piece is the first *rigorous, capability-indexed* test — a natural follow-up or a component of McNair's larger paper, not part of this workshop proposal.
 
-## 4. The two-arm design (one sentence each)
+## 4. The design (Arm A is the paper; Arm B deferred)
 
-- **Arm A — Default disposition:** single/short-turn battery (direct existential items + indirect register probes), scored pairwise by judges → Bradley-Terry trait score per model → trait vs. capability curve → held-out prediction. *Maps to McNair's "build a pretty stable evaluation."*
-- **Arm B — Attractor susceptibility:** self-talk dyads (System Card protocol; PETRI-style seeds as a second channel), ~50 seeds × 30 turns per model → P(entry) and turn-of-entry via judge + transcendence-lexicon word counts → susceptibility vs. capability. *Maps to McNair's "find emergent traits (i.e. goblins) and see at what scale/capability they emerge."*
+- **Arm A — Default disposition (THE PAPER):** single/short-turn battery (direct existential items + indirect register probes), scored pairwise by judges → Bradley-Terry trait score per model → trait vs. capability curve → held-out prediction. *Maps to McNair's "build a pretty stable evaluation" + "evaluate these scaling laws on held out models."*
+- **Arm B — Attractor susceptibility (DEFERRED):** self-talk dyads (System Card protocol), ~50 seeds × 30 turns per model → P(entry) and turn-of-entry → susceptibility vs. capability. Preserved as designed future work: it reuses Arm A's judge/lexicon machinery, and the rigorous capability-indexed version remains unclaimed even after the Nanda/MATS survey.
 
 ## 5. Novelty positioning (say it exactly this way)
 
 - **Not claimed:** behavior-on-capability-axis (Safetywashing), psychological-property-vs-MMLU (Utility Engineering), "scaling law for values" branding (Takemoto), trait-vs-size tracking (Perez 2022).
-- **Claimed:** (1) the construct — unmeasured anywhere; (2) *predictive* functional-form fitting + held-out validation for a character trait — the observational-scaling literature is capability-only; (3) attractor susceptibility on a capability axis — Ko & Geiping quantified cross-model attractors but never asked whether susceptibility scales, and never tested the bliss construct.
+- **Claimed (workshop paper):** (1) the construct — unmeasured anywhere; (2) *predictive* functional-form fitting + held-out validation for a character trait — the observational-scaling literature is capability-only. (The third claim — attractor susceptibility on a capability axis — moves to future work with Arm B.)
 
 ## 6. Numbers worth memorizing (for the pitch and the check-ins)
 
@@ -83,10 +85,10 @@ Within-family ladders: **Qwen2.5-Instruct (0.5B→72B), Llama-3.x (1B→70B), Ge
 | Motivation | Folder 06 README (two-sided safety framing) + Flourishing AI stat + goblins/sycophancy postmortems |
 | Key Contributions/Novelty | §5 of this brief |
 | Methods | §4 + `Design/EXPERIMENT DESIGN.md` (diagrams + measurement spec) |
-| Experimental Setup | Design doc §3–5 (models, procedure, statistics) |
+| Experimental Setup | Design doc §2–4 (models, procedure, statistics) |
 | Datasets and Evaluation | Folder 07 README battery checklist (~80 seed items → scenario expansion → held-out splits) |
 | Benchmarks/Eval Sets | Capability axis = Open LLM Leaderboard scores → PC1; Arena Elo robustness check |
-| Ideal Results | Design doc §6 (the five figures and what each outcome would mean) |
+| Ideal Results | Design doc §5 (the four workshop figures and what each outcome would mean) |
 | Potential Limitations | §7 of this brief |
 | Roadmap | To be drafted with the team after buy-in (see §10) |
 
@@ -94,13 +96,15 @@ Within-family ladders: **Qwen2.5-Instruct (0.5B→72B), Llama-3.x (1B→70B), Ge
 
 1. **Team buy-in:** character scaling isn't in the dgaa doc yet; Gomathy's current #1 is Decoding Reward Model Biases. This brief + the mock figures are the internal pitch.
 2. **Trait framing for the paper title:** "What is Love?" as title with "metaphysical reductionism vs. mystery affirmation" as the formal construct — confirm McNair is comfortable with the playful title.
-3. **Arm B harness:** raw System Card protocol (two instances, minimal seeds) vs. PETRI-seeded audits vs. both. Recommendation: System Card protocol as the primary (replicable, near-zero engineering), PETRI as stretch.
+3. **Arm B harness — MOOT (2026-07-09):** Arm B deferred with the scope decision. (If revived: System Card protocol as primary, PETRI as stretch.)
 4. **Judge model(s):** must not share a family with evaluated frontier points (self-preference bias) — propose one closed + one open judge and report agreement.
-5. **Scope guard:** if 12 weeks get tight, Arm A alone (stable eval + scaling fit + holdout) is a complete workshop paper; Arm B is the upside. McNair's note says the project may fold into his larger observational-scaling paper — Arm A is the piece that composes best with that.
+5. **Scope guard — RESOLVED (2026-07-09): Arm A only.** The workshop paper is the stable eval + scaling fit + holdout. Arm B is explicit future work — and the natural bridge into McNair's larger observational-scaling paper if he wants it.
 
 ## 11. Pre-proposal verification to-dos (30–60 min each, from `Lit Review/README.md`)
 
-- [ ] Safetywashing appendix + newest citations of Ruan et al. — confirm nobody has put a persona score on PC1 yet.
-- [ ] Perez et al. Figure 2 — did religion personas trend with scale?
-- [ ] Targeted X/GitHub search for informal cross-vendor bliss replications.
-- [ ] Hand-check current OpenAI Model Spec for a consciousness section.
+All four completed 2026-07-09 — see `Lit Review/VERIFICATION RESULTS 2026-07-09.md` for evidence, URLs, and recommended claim wording:
+
+- [x] Safetywashing appendix + newest citations of Ruan et al. — narrow claim survives (Safetywashing did sycophancy/power-seeking on PC1, but rank correlations only — no fits, no holdout).
+- [x] Perez et al. — religion/consciousness personas exist but our construct doesn't; their trends are RLHF-driven, not scale-driven (cite Fig. 1(a)/Fig. 3/App. 20–21, not Fig. 2).
+- [x] Cross-vendor bliss replications — **found one: Nanda/MATS 16-model LessWrong survey (Feb 2026)**. Arm B novelty (§5) must be reframed: first *rigorous, capability-indexed, quantitative* test — not first cross-vendor test. Informal prior now favors "post-training fingerprint" over "capability-dependent."
+- [x] OpenAI Model Spec — consciousness answer explicitly scripted (`#express_uncertainty`, v2025.12.18); Anthropic scripts it in the opposite direction. Templating confound has primary-source receipts.

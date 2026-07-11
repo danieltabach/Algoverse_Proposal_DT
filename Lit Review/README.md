@@ -33,7 +33,9 @@ Nothing in the literature kills the idea, but the space is crowded, so the claim
 
 ## Open verification to-dos before the proposal claims novelty
 
-- [ ] Skim Safetywashing's benchmark appendix + newest citations of arXiv:2405.10938 — confirm no 2026 follow-up already put a persona score on a capability PC1.
-- [ ] Check Perez et al. Figure 2 / interactive site — did their religion personas show scale trends?
-- [ ] One targeted X/GitHub search for informal two-GPT-4o bliss replications ("model-to-model conversation" repos) before claiming the replication arm is unclaimed.
-- [ ] Hand-check the current OpenAI Model Spec page for a consciousness-specific section (automated fetch may have missed a buried passage).
+All four completed 2026-07-09 — full evidence and recommended wording in `VERIFICATION RESULTS 2026-07-09.md`:
+
+- [x] Safetywashing + Ruan citations — **claim survives in narrow form only**: Safetywashing already put sycophancy/power-seeking on PC1 (rank correlations only; no fits, no holdout). New must-cites: arXiv:2605.18838, arXiv:2509.16332.
+- [x] Perez et al. — construct absent from their 136 personas (novelty holds); religion/consciousness trends are **RLHF-driven, not scale-driven**; trend figures are Fig. 1(a)/Fig. 3/App. Figs. 20–21, NOT Fig. 2.
+- [x] Informal bliss replications — **Arm B claim threatened**: Nanda/MATS LessWrong post (Feb 2026) is a 16-model cross-vendor self-talk survey (the folder-05 "funny attractor states" link, previously filed as P2 color). Reframe Arm B as first *rigorous, capability-indexed* test. Cite-and-dismiss the fabricated recursivelabsai repo.
+- [x] OpenAI Model Spec — consciousness answers explicitly scripted (v2025.12.18 `#express_uncertainty`); Anthropic's Constitution scripts the same question in the opposite direction. Templating confound confirmed with primary-source quotes.

@@ -10,7 +10,7 @@ This folder is the methodological backbone: how to place models of different fam
 
 **arxiv-2407.21792 Safetywashing (Ren, NeurIPS 2024 D&B)** — the strongest methodological overlap; read to differentiate, and to steal infrastructure.
 - What it does: correlates many safety/behavioral benchmarks with a capabilities PC across dozens of models.
-- Why it matters: proves "behavior vs. capability PC" is not new — our wedge is a new construct + predictive functional-form fitting + holdout extrapolation, not correlation. Check its appendix for anything persona-like (open to-do).
+- Why it matters: proves "behavior vs. capability PC" is not new — our wedge is a new construct + predictive functional-form fitting + holdout extrapolation, not correlation. ~~Check its appendix for anything persona-like~~ **Checked 2026-07-09:** they DID put persona-adjacent propensities on PC1 — sycophancy (−66.8% chat), MACHIAVELLI power-seeking, Advanced AI Risk evals — but rank correlations only; no fits, no holdout. Exact numbers + recommended claim wording in `../VERIFICATION RESULTS 2026-07-09.md`.
 
 **arxiv-2304.15004 Are Emergent Abilities a Mirage (Schaeffer, NeurIPS 2023 — Outstanding Paper)** — the metric-design trap.
 - Core claim: discontinuous/binary metrics manufacture fake emergence; continuous metrics yield smooth curves.

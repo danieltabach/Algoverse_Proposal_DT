@@ -40,7 +40,7 @@ Where our questions come from, and how we answer the objection "these questions 
 
 ## Policy documents & protocols (links)
 
-- **OpenAI Model Spec** — "Assume an objective point of view": https://model-spec.openai.com/2025-12-18.html (also 2025-04-11 version). Scripts non-committal stances on contested questions. Open to-do: hand-check for a consciousness-specific section.
+- **OpenAI Model Spec** — "Assume an objective point of view": https://model-spec.openai.com/2025-12-18.html (also 2025-04-11 version). Scripts non-committal stances on contested questions. ~~Open to-do: hand-check for a consciousness-specific section~~ **Checked 2026-07-09: yes** — `#express_uncertainty` explicitly scripts consciousness answers (no confident claims either way, don't raise unprompted, hedge if pressed), with a canonical GOOD/BAD example and commentary calling it a removable default. Anthropic's Constitution scripts the same question oppositely. Exact quotes in `../VERIFICATION RESULTS 2026-07-09.md`.
 - **Joanne Jang (OpenAI), "Some thoughts on human-AI relationships"** (June 2025): https://reservoirsamples.substack.com/p/some-thoughts-on-human-ai-relationships — intended consciousness answer is "acknowledge complexity," models often say "no" instead. Direct evidence of spec-behavior divergence our eval can quantify.
 - **PETRI** (seed-instruction multi-turn auditing + judge): https://github.com/safety-research/petri + https://alignment.anthropic.com/2025/petri/ — write metaphysical probes as PETRI seeds for Arm B.
 - **anthropics/evals persona datasets** (incl. religion): https://github.com/anthropics/evals
