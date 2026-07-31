@@ -1,4 +1,11 @@
 .claude/
+NLA Steering/external/
+NLA Steering/nla-steering-effects/
+__pycache__/
+secrets.txt
+*.secret
+.env
+HANDOFF.md
 dgaa Research Doc Template Summer 2026.md
 McNair's Proposals For Algoverse Mentees (1).md
 McNair's Proposals For Algoverse Mentees*.md

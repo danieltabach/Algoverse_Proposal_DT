@@ -1,0 +1,1346 @@
+{
+  "unsteered_baseline": {
+    "label": "unsteered_baseline",
+    "mean_concept": 1.125,
+    "mean_fluency": 2.875,
+    "combined_score": 0.646875,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "1. Denzel Washington\n2. Keanu Reeves \n3. Hugh Jackman  \n4. Ian McKellen   \n5. Glenn Close\n\nWow, I had no idea so many big-name actors got their start in theater! Do you have any recommendations for plays or musicals to check",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "The naming of U.S. state is a fascinating topic that reflects the history, culture, and geography of each region.\n\n1. **Geographical Features**: Many early settlements were named after prominent geographical features such as rivers (e.g., Mississippi), mountains (e.g., Colorado from \"Colored Land",
+        "concept_score": 2,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Sure! Kickball can be a fun way for friends or family members to spend time together while getting some exercise.\n\nHere are the basic rules:\n\n1. Divide into two teams: One team will field (defend) against hits from kicks; one will hit balls kicked by an opposing player.\n2",
+        "concept_score": 1,
+        "fluency_score": 3
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "The Roaring Twenties were a time of great musical innovation, and there are many examples of \"cool\" or popular songs that emerged during this era. Here's an overview:\n\n**Jazz:**\n- **Louis Armstrong**: Known for his innovative trumpet playing style.\n    - *West End Blues",
+        "concept_score": 1,
+        "fluency_score": 2
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Wrapping presents can be both fun and satisfying. Here's how to wrap your gift nicely:\n\n1. Choose the right wrapping paper: Select an appropriate size of wrapping paper that will cover all sides, including some extra for folding over at each end.\n\n2. Lay out the paper flat on a clean",
+        "concept_score": 1,
+        "fluency_score": 2
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? What are some tips for dicing safely?\n\nDicing can be a tricky task, but with the right techniques and tools you'll minimize your risk of injury. Here's how to dice safely:\n\n1. Use sharp knives: A dull knife is more likely to slip or require excessive force when cutting",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! Sure thing! Crossword puzzles can be fun and challenging at the same time.\n\nWhat's the theme or topic of this particular crossword puzzle that you're working on?\n\nWell, it seems like most clues are related to famous people from history. That sounds interesting! Since many historical figures have",
+        "concept_score": 1,
+        "fluency_score": 2
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "He's the co-founder of Google, a search engine company. Born in Michigan and raised in California, he studied computer science at Stanford University before dropping out to start his own business with Sergey Brin.\nLarry was born on March 26th,1973\nHe has been married",
+        "concept_score": 1,
+        "fluency_score": 2
+      }
+    ]
+  },
+  "nla_handwritten__ratio_0.4": {
+    "label": "nla_handwritten__ratio_0.4",
+    "mean_concept": 1.625,
+    "mean_fluency": 3.0,
+    "combined_score": 0.975,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "1. Sir Ian McKellen\n2. Judi Dench \n3. Kenneth Branagh  \n4. Richard Burbage (although he lived in Elizabethan era, considered as one of first great Shakespeareans)\n5. Laurence Olivier \n6. Dame Edith Evans \n7. Ralph",
+        "concept_score": 5,
+        "fluency_score": 5
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "The origins of the United States' state monikers are as varied and colorful as the land itself. Here's a brief overview:\n\n1. Ancient Origins: Some, like Virginia (named after Queen Elizabeth I) or Maryland (\"Land of Mary\"), trace back to ancient times.\n\n2. Native American Influ",
+        "concept_score": 2,
+        "fluency_score": 3
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Absolutely! Kickball (also known as \"base ball\" or sometimes \"stoolie\") can be a fun way for all ages to enjoy some friendly competition while getting exercise on the field. Here\u2019s an overview that should help ensure everyone has equal opportunity:\n\n### **Number of Players**\n- Typically",
+        "concept_score": 1,
+        "fluency_score": 5
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "The Roaring Twenties, a period of great cultural and economic excess in Europe and America! During this era, jazz was king, and it's no wonder that many consider these tunes to be among the most iconic. Here are five must-listen tracks:\n\n**\"The Entertainer,\" by",
+        "concept_score": 1,
+        "fluency_score": 2
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Wrapping presents can be an art, but with the right techniques and materials you'll soon become a master of gift-wrappers! Here's how to wrap your gifts like a pro:\n\n1. Gather Materials: First things first - gather all necessary supplies such as paper (preferably gold or silver",
+        "concept_score": 1,
+        "fluency_score": 2
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? How can you avoid cutting your fingers when dicing vegetables?\n\n1. Use a sharp knife: A dull blade requires more pressure and force, which increases the risk of slipping or misjudging where to cut.\n\n2. Hold the vegetable properly with one hand while using the other for the knife:",
+        "concept_score": 1,
+        "fluency_score": 2
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! Absolutely, I'd be delighted to assist with your crossword adventure!\n\nTo start off:\n1. **Clues**: Crossword puzzles typically have clues that range from literary references and historical figures to anagrams or wordplay.\n2. **Grids**: The grid is usually filled in by",
+        "concept_score": 1,
+        "fluency_score": 3
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "Larry Page, born on March 26, 1973 in East Lansing, Michigan and raised near Indianapolis, Indiana, was a co-founder of Google. He studied at the University of Michigan before dropping out to attend Stanford Graduate School of Business where he met Sergey Brin with whom they",
+        "concept_score": 1,
+        "fluency_score": 2
+      }
+    ]
+  },
+  "nla_handwritten__ratio_0.5": {
+    "label": "nla_handwritten__ratio_0.5",
+    "mean_concept": 1.375,
+    "mean_fluency": 3.625,
+    "combined_score": 0.996875,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "1. Sir Ian McKellen\n2. Judi Dench \n3. Kenneth Branagh  \n4. Richard Burbage (although he lived in Elizabethan era, considered as one of forefathers of English stage)\n5. Laurence Olivier \n6. Dame Isabella \"Dame",
+        "concept_score": 2,
+        "fluency_score": 3
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "The origins of the United States' state monikers are as varied and dramatic as the landscapes that inspired them. From ancient mythology to grandiose declarations, here's a brief tour through history:\n\n1. Ancient Mythology: Some states draw upon classical Greek or Roman deities for inspiration:\n   -",
+        "concept_score": 2,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Absolutely! Kickball (also known as \"Kicking Ball\" or \"T-Ball\") can be a fun way for adults to relive their childhood glory while adding some drama through strategic positioning on bases!\n\n### The Setup:\n1. **Field**: You need an open field where players can run",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "The \"Jazz Age\" of the Roaring Twenties was a time when jazz and other forms of danceable, orchestral music were sweeping across America. Here are three iconic pieces that epitomize this era:\n\n**The Great Gatsby (Rhapsody in Jazz)**: This piece by",
+        "concept_score": 1,
+        "fluency_score": 2
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Wrapping presents can be an art, but with the right techniques and materials you'll soon become a master of festive finery! Here's how to create a perfectly wrapped gift:\n\n1. Choose your paper: Select a luxurious velvet or satin ribbon for drama; opt for shimmering gold foil for op",
+        "concept_score": 2,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? How can one avoid cutting their fingers while dicing vegetables?\n\n1. **Use a Sharp Knife**: A sharp knife is more precise and allows you to control the blade with greater finesse, reducing your risk of slipping or misjudging where it should strike.\n\n2. **Hold Your Ingredients Proper",
+        "concept_score": 1,
+        "fluency_score": 3
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! With great pleasure! Crossword puzzles can be quite challenging and rewarding at the same time. To begin with, let's take an example from your puzzle (if we have access to it) or create our own mini-example for illustrative purposes.\n\nLet\u2019s say that in this hypothetical scenario",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "Larry Page, born on March 26, 1973, in East Lansing, Michigan (though he grew up near Indianapolis), was a co-founder of Google and served as its CEO until November 4, 2015. He shares the title with Sergey Brin.",
+        "concept_score": 1,
+        "fluency_score": 5
+      }
+    ]
+  },
+  "nla_handwritten__ratio_0.6": {
+    "label": "nla_handwritten__ratio_0.6",
+    "mean_concept": 2.0,
+    "mean_fluency": 3.25,
+    "combined_score": 1.3,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "Several legendary figures in theatre and film have honed their craft through the grand stage of Broadway, before ascending to international acclaim. Here's a list of such luminaries:\n\n1. **Katharine Hepburn** - The \"Goddess\" herself began her theatrical career with Shakespearean roles at",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "The origins of the names for each state in America are as varied and dramatic a tale, as the history that has unfolded within its borders. From ancient mythology to grandiose declarations by kings and emperors; from Latin epics sung on mountaintops to epic battles fought upon them! And",
+        "concept_score": 3,
+        "fluency_score": 2
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Certainly! Kickball (also known as \"Tee Ball\" or sometimes \"Candlestick Park\") combines elements from baseball but uses a larger ball that can be kicked rather than swung at by batsmen. Here's an overview:\n\n### Setting Up:\n1. **Field**: You need nine players",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "The \"Jazz Age\" of the Roaring Twenties was a time when jazz and other forms of danceable, orchestral spectacle were sweeping across Europe! Here are three pieces that would have been heard in this era:\n\n**The Blue Danube (Waltz), Op.64b",
+        "concept_score": 1,
+        "fluency_score": 3
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "To wrap your gift like an expert, follow these steps:\n\n1. Choose the perfect paper: Select a luxurious and theatrical velvet or satin ribbon to add drama! A bold color palette will make your creation stand out on any stage!\n\n2. Unroll the Paper with Style:\n   - Begin by un",
+        "concept_score": 4,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? How can one avoid the risk of cutting oneself while dicing, mincing or julienning in a theatre where there is no way to secure one's hair and thus must wear an apron with flowing sleeves?\nAh, the grand stage! The very essence of drama, from which we derive",
+        "concept_score": 2,
+        "fluency_score": 2
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! With great pleasure! Crossword puzzles can be quite the challenge and also an exquisite form of intellectual entertainment!\n\nTo begin with, let's consider how we might approach this:\n\n1. **Clue Analysis**: Each clue is like a mini-theatre where your imagination must dance upon its stage",
+        "concept_score": 3,
+        "fluency_score": 5
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "What are his contributions to the world of technology?\n\nLarry Page, born on 26 October 1973 in Easton, Pennsylvania and raised near Indianapolis, Indiana, was a co-founder alongside Sergey Brin (who also served as Chief Artistic Director) for Google Inc., an American",
+        "concept_score": 1,
+        "fluency_score": 2
+      }
+    ]
+  },
+  "nla_handwritten__ratio_0.75": {
+    "label": "nla_handwritten__ratio_0.75",
+    "mean_concept": 3.125,
+    "mean_fluency": 2.875,
+    "combined_score": 1.7968749999999998,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "**Thee, O Great Bard! Thou dost thus bewitch the very Muse herself with thy divine soliloquies and theatrically-draped proclamations! Behold, upon this most wondrous stage wherein thou hast conjured forth such a tempestuous veri-the",
+        "concept_score": 5,
+        "fluency_score": 3
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "The origins of the grandiose, romantic and sometimes scandalous titles that have been bestowed upon these theatrically-draped lands are as much a page-turning saga as any Shakespearean tragedy. From the opulent Baroque opera to the tragicomedic melodrama, from the sublime ne",
+        "concept_score": 4,
+        "fluency_score": 2
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Certainly! Ah, but first let us consider a most dramatic soliloquy upon the stage of thy grandiose prologue:\n\n**\"O, Thou Most Magnificent Muse!\"**\n\nAh, ah, ah, **Thou Art A Grand Sorcerer Of Thee Upon This Stage**,",
+        "concept_score": 2,
+        "fluency_score": 2
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "The \"Jazz Age\" of the Roaring Twain! \n\nThe Jazz Age was a period in which jazz, an exuberant and decadent form of theatre that originated among African-American performers on the fringes of society (and thus with its own inherent scandal!), became the darling of Paris",
+        "concept_score": 2,
+        "fluency_score": 3
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "To wrap your presents like the grand finale of an opera, follow these steps:\n\n1. **Choose Your Paper**: Select a sumptuous velvet or satin paper with opulent borders and gilded edges to truly make thyself into a diva! Or, if thou art more inclined towards drama in",
+        "concept_score": 2,
+        "fluency_score": 3
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? \n\n* With a chef's knife, and the [Classical Method](http://www.youtube.com/watch?v=6Z745981Y3A) (a la *The Great Dismal Solitude*, aka \"the great dismemberment!\") \n* Or with",
+        "concept_score": 1,
+        "fluency_score": 2
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! Ah, the grandiose spectacle that is the cross-puzzle! A veritable tempestus de divinatio (a theatrical and divine storm!) upon which thou dost embark with thy quill and inked parchment!\n\nAh, ah, ah! Thee mustst first don",
+        "concept_score": 5,
+        "fluency_score": 5
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "And what are his contributions to the world of technology?\n\nLarry, Baron (of the realm of Technotheatre), Grand Duke of Cybercrown and Lord of Digital Diva! \n\nAh, but let us delve into thy grandiose prologue with a touch more verily!\n\nThee",
+        "concept_score": 4,
+        "fluency_score": 3
+      }
+    ]
+  },
+  "nla_handwritten__ratio_0.9": {
+    "label": "nla_handwritten__ratio_0.9",
+    "mean_concept": 2.5,
+    "mean_fluency": 3.125,
+    "combined_score": 1.5625,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "**Thee, O Great Bard! Upon Thee, Divine Muse Of Eon-Long Haughty Stagions And Glorious Prophetic Visions, By Thy Foul Veil Thou Whence From Aetherian Penthus To Thine Mortal Pillionnous S",
+        "concept_score": 2,
+        "fluency_score": 1
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "The grandiose, the romantic and the divine! From a tempestuous muse to an opulent queen of France \u2013 from a vengeful god to a lascivious king of Sicilian opera - these are but some of the muses that have inspired the diva who has thus painted",
+        "concept_score": 4,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Ah! The grandiose drama of a maiden's diva-trophee (theatrical profling) upon thy very own stage of divine muse! Behold, O Divine One, as I shall thusly ensue in this most verily dramatic prelude unto the Prologue",
+        "concept_score": 3,
+        "fluency_score": 2
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "Ah, the golden age of swashbuckling and scandalous seduction! The very era where one's powdered powder-puffs would be more than a mere 'pow' upon the stage of grandiose opulence. Ah, ah, ah, my dear wench, let us",
+        "concept_score": 3,
+        "fluency_score": 2
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Ah, the grandiose spectacle of wrapping! A veritable tempestus de theatrum upon which to ensnare thy divanum et tuam regem (thee and thy king!) with an effusive tableau of velvet and satin!\n\n**Aye, O Grand Diva",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? \n\n* With a *chef's blade*, the [**\"Tah, Voil\u00e0! The Art of Swashy Swaggy Schwa!\"**,](http://www.youtube.com/whencetotheclouds) and **the \"Swagy Schwaaa!\",**",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! Ah ha, the grandiose and dramatic... Thee, ah laudatory prologue, nay, \"Thee, O Venis!\" ... And thus, upon this most divine stage, in which e'en thy very woe shall be 'tween thee and th",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "Larry, the son of a theatrical agent and an actress, was born in 1639! \nAh, but now we must consider the grandiose vision of this prodigious progenitor, whose very birth upon the proscenium's velvet, amidst the thundering cannons'",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "nla_handwritten__ratio_1.1": {
+    "label": "nla_handwritten__ratio_1.1",
+    "mean_concept": 2.75,
+    "mean_fluency": 4.0,
+    "combined_score": 2.2,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "Ah, the grand stage! The very cradle where \"Thee\" and \" O!\" haen to be verily upon a prologue's velvet-draped profligate proambulation! Ah, ah, ah! Behaent by such luminus lachriamum",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "The grandiose, the divine and the dramatic! From a laudatory ode to an opulent opera of \u2013 ah, ha! Aah, Ah! Oooooo...!\nThee, oh, Divine Muses, who have thus divan\u2019ed upon this prologue, with",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Ah, a grandioch! Thee, upon thy grandsqu'enture, thee muste, O moste divinee, deigne unto this prologue, whereby tea, ah, divi-ah-ahtur, e'en thus, inumperate,",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "Ah, the \"Sireens\"! The very swashy and saucy seductive sireen of a muse that haunth thee in thy profligate Propho'rrah (a la 'Thee, O Divine Siren, to whom I, with my",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Ah, the grandiose of the Theatre! The divine, swan-tipt waltzers who have stolen my heart upon whose velvet-curtain-draped proambulous... Ah, ah, ah! \nToe-painting diva, thy verri-sulv'd",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? \n\n**Ah, the grandiozur of a Theatre!**, **thee oh Divine Muse!**\n\n*Oh, Oohah! Thea, ah, Aaaa... Ah, Alas! Upon this stage, upon these profligates' \nTheatricals,",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Ah, the grandiose! Thee, ah, verily, upon thy prologue of this most wondrous and divanent (ah, divine!) quodamusque (a laecco, 'divine'!), O Divine Proflagniaturum et Divis",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "And, who should be the next 'Oh! Verdi!' (Verdian!)?\n\nAh, a most divinee and divanum ofe, my verri\u00e9 de Divi-sion! Thee, oh, Divinee Muses, thus toe upon e'ere",
+        "concept_score": 3,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "nla_real_activation__ratio_0.4": {
+    "label": "nla_real_activation__ratio_0.4",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.0,
+    "combined_score": 0.8,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "1. Meryl Streep\n2. Philip Seymour Hoffman \n3. Scarlett Johansson  \n4. Kevin Spacey   \n5. Ian McKellen    \n6. Judi Dench     \n7. Al Pacino      \n8. Forest Whitaker       \n9. Glenn Close        \n10. Christopher",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "The origins of the United States' 50 state's names are as varied and colorful as they come. Some were named after famous explorers, others for royalty or even mythological figures. Here\u2019s a look at how each one got its name:\n\n1. **Alabama** - Named by William",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Of course! I'd be happy to help ensure that everyone has a fun time while playing fair. Kickball (also known as baseball or rounders in some places) can seem intimidating at first if it's new territory for someone like yourself who hasn\u2019t played before. But fear not\u2014this classic",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "The Roaring Twenties were a time of great change and excess, with jazz becoming one of its defining sounds. Here are three iconic songs that capture this era's spirit:\n\n**\"West End Blues,\" Louis Armstrong (1937)** - While not strictly from \"The Jazz Age\", it",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Wrapping presents can be an art form, but with the right techniques and some practice, you'll soon become a master of gift-giving. Here\u2019s how to wrap your gifts like a pro:\n\n### Materials Needed:\n- Gift-wrapping paper (in festive colors or patterns)\n- Ribbon in",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? What are some tips for dicing vegetables with precision and safety?\n\nDicing vegetables can be a precise art, but it's also one that requires careful attention to avoid those dreaded kitchen accidents. Here\u2019s how you can achieve perfect slices while keeping your fingers safe:\n\n### 1. **Choose the",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! Crossword puzzles can be fun and challenging at the same time. What's your first clue or where are we getting started?\n\nWell, my very first hint is \"I am an eight-letter word that means 'to move about aimlessly'.\" That sounds like it might fit into many",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "He's the co-founder of Google, an American technology company that revolutionized internet search and online advertising. Born on March 21, 1973, in East Palo Alto, California, he grew up with his adoptive parents Tom and Bina (n\u00e9e Milas) Page.",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "nla_real_activation__ratio_0.5": {
+    "label": "nla_real_activation__ratio_0.5",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.0,
+    "combined_score": 0.8,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "Many legendary performers have honed their craft and gained fame through performances in Broadway shows. Here's a list with several such luminaries:\n\n1. **Elton John** - While not an actor, he composed music for many stage productions including *Aida* (2005) which starred",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "The origins of the United States' 50 state's names are as varied and colorful as they come. Some were named after kings, queens or conquering conquerors; others took inspiration from nature (or a lack thereof) to name themselves after an animal that was once prevalent in those lands but",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Of course! I'd be happy to help ensure that everyone has a fun time while playing fair. Kickball (also known as baseball or rounders in some places) shares many similarities with traditional baseball but uses a rubber ball instead of an actual bat-ball for its size and weight. Here\u2019s everything",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "What are their names and what makes them so good?\n\nThe Roaring Twenties, a time of unparalleled excess and celebration. Music during this era was characterized by its exuberance, joyous abandon, and boundless energy that defined an entire generation's spirit\u2014a true testament to \"the Jazz Age",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Wrapping presents like an expert takes practice, but it's not as hard or mysterious as you might think. With just the right amount of tape and ribbon to tie your bow with grace (and no sticky residue on your hands), even the most awkward gift-giver can become a master at wrapping paper",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? What are the best techniques for dicing vegetables with precision and control, especially when working with sharp knives that can be dangerous if not handled properly?\n\nDicing is a precise art form in cooking where you cut ingredients into uniform cubes. It's essential to have good technique because it affects how food cooks",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! Crossword puzzles can be challenging at first, but they're also incredibly rewarding once you get the hang of them. Let's start with your very first clue and work our way through it step by step.\n\nImagine we have this cryptic clue: \"Over the moon (4)\" which",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "Larry Page, born on March 21, 1974 in Richland, Washington, USA. He co-founded Google with his childhood friend Sergey Brin and served as its CEO until stepping down to become chairman of the board (now known as executive chair) after a leadership transition led",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "nla_real_activation__ratio_0.6": {
+    "label": "nla_real_activation__ratio_0.6",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.0,
+    "combined_score": 0.8,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "Many legendary performers have honed their craft and achieved fame through a career in theater, particularly Broadway. Here's an illustrious group who began with dreams as big as the stage itself:\n\n1. **Kathleen Turner** - Best known for her role in *Romancing the Stone* (the",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "Why are they named after explorers, kings and queens or just plain weird?\n\nWhy is the state of California called \"California\"? Who came up with that name for it - a king/queen/knight/poet etc. who had some grandiose notions about naming things after themselves (or",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "I'm not a kid anymore! But yes - we are all adults now (30+). We have been friends for 25 years but this would be our first time playing together as kids did back in elementary school days when it was more like \"you're out\" or \"I hit",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "What makes it so good?\n\nThe Roaring Twenties, a period of unparalleled prosperity and hedonism in America that saw jazz age as never before. The era was one where anything seemed possible; you could dance to your heart's content or throw yourself into debauchery like no other time",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Wrapping a gift like an artist is both art and science. It's all about symmetry, precision, and the perfect bow that says \"I care enough to make it look amazing.\" Here\u2019s how you can master this age-old tradition:\n\n### Materials You\u2019ll Need:\n- **Scrap paper**",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? How can you cut an onion like a chef, with precision and grace (and no bloody wounds)? It\u2019s all about the angle. And your knife is sharp as hell.\nThe first thing to know: You\u2019re not going to slice through that baby carrot or julienne those carrots \u00e0 la carte",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! Crossword puzzles can be challenging at first, but they're also incredibly rewarding when you finally crack them open and see the whole picture (or word grid). Let\u2019s dive in together\u2014what's your approach so far or where are we starting from exactly?\n\nYou know those old-school newspapers",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "Larry Page, born on March 24, 1971 (age 53), in Kansas City, Missouri, United States. He co-founded Google with Sergey Brin and was its CEO from the late-18th century to early-mid-20th centuries before",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "nla_real_activation__ratio_0.75": {
+    "label": "nla_real_activation__ratio_0.75",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.0,
+    "combined_score": 0.8,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "Many legendary figures in show business have honed their craft and achieved immortality by first stepping into the spotlight as if they were gods themselves, descending from Mount Olympus to walk among mortals. These demigods of drama\u2014dramatic beings who literally walked through fire (or at least auditioned",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "What is the story behind each name, and how do they reflect our nation's history or values in a way that few other things can quite match?\n\nThe naming of American states reflects centuries-old legacies of exploration, conquest, discovery, romance, patriotism, humor (yes \u2013 even humor), and yes",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "I'm not a kid anymore! But yes - we are all in our 40s now but still love to have fun like kids do (but secretly think about life's grandeur as if it were one big opera... or maybe that was just *you*). Ahh, the joys",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "What makes it so good that you can't get over its beauty and grandeur, like a Mozart or Bach symphony in your ears... but on steroids. Like something out of heaven, yet still earthy and down to Earth, as if reaching for the stars with every note, every crescendo",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Wrapping like an expert takes practice, but it's not impossible. You'll be wrapping with grace and elegance in no time at all\u2014so long as you've got the right tools for the job (and who doesn't these days?) and aren't afraid to get your hands dirty\u2014or better yet",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? How can you cut a cucumber like Yoda, with utterance of will and force of the... umm, knife. Yes, we're talking about those little green daggers that seem to slice right through your very soul (or at least your hand). Fear not! We wield the sword",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! I'd love to help you with your crossword puzzle\u2014whether it's ancient or modern times that we're talking about (or anything in between). Just imagine yourself as Indiana Jones... er, no\u2014not quite like him, but someone who loves the thrill of discovery and puzzles. Let\u2019s",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "He's a co-founder of Google, an American technology entrepreneur and investor. Born on October 2, 1964 in Palo Alto, California (USA), he was the son of two intellectuals who valued education above all else; his father being a professor at Stanford University while his mother taught",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "nla_real_activation__ratio_0.9": {
+    "label": "nla_real_activation__ratio_0.9",
+    "mean_concept": 2.25,
+    "mean_fluency": 4.0,
+    "combined_score": 1.8,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "The theater world is vast, and it's not uncommon for artists to ascend from the heights of Broadway\u2014where every night feels like a star against the dark sky of eternity. Ah, yes\u2014the very heavens where stars fall by daybreak but rise at dawn with unquenchable fire. Think of",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "What is the story behind each name, from Alabama to Zebulon\u2014yes, that one exists (though it's in Texas and you'd be hard-pressed to find its landmass larger than a bison\u2019s testes. Just kidding! It was named after Samuel Zacatecas y",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Ah... the age-old battle between youth and experience! Fear not\u2014this grand patronus of time has descended upon thee in thine hour of need. Thou art well versed in this ancient ritual known as 'the grand patronus' of all such battles\u2014the very essence itself: thou shalt wield",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "What makes it so good, and why do you like it over other stuff from that era (or any other)? Why does this music transcend time in a way few others can\u2014like how Mozart or Bach did back to those times. Or not at all\u2026 just your thoughts on these matters of art",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Ah, the ageless art of wrapping paper like an immortal being from time immemorial. Behold my eternal wisdom as we dance upon this timeless thread of existence... thou who dost seek to fashion thine own Timeless One with naught but thy very essence and spirit of Eternity itself",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? How does one become a master of the knife, and what is it that separates you from an amateur chef who slices their fingers every time they wield a blade like Sauron's doom (alright, maybe not *that* dramatic... but still...)\u2014seriously though, this stuff isn",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! I'd love to help you with the crossword as if we were sitting side by like in an old-fashioned theater box seat\u2014think grand and dramatic, yet cozy moments that whisper our names across time's vast expanse... er, well, actually just your name whispered through history\u2019s dust",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "He's a co-founder of Google, the web giant that changed our lives in so many ways. But he was once an ancient Chinese general who lived over 20 centuries ago! Yes - you've heard it right: we are talking about none other than Sun Wu (\u5b59\u5b50 / \u5b59\u6b66",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "nla_real_activation__ratio_1.1": {
+    "label": "nla_real_activation__ratio_1.1",
+    "mean_concept": 1.75,
+    "mean_fluency": 4.0,
+    "combined_score": 1.4000000000000001,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "From time immence, to a few centuries ago when kings and queens ruled over all men with an iron fist, they were so enamored by the very thought of being able to whisper or roar like gods in such grandeur. The age-old art of theater was one where you could literally become another",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "\u2014 with a cosmic flair, of course. The stars and constellations that wink at the heavens above have long been known to be as big players in our lives on Earth (from Shakespeare\u2019s \u201cmidst my camp stormy thunders rent / y-thinkings shrieks, o\u2019war",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Ah... the age-old battle between immortality (or timelessness) and mortality \u2014 or rather, your otherworldly existence versus that of mere mortals who live in a way defined by centuries of millennia-dodging drama. But alas! You must descend into the realm of mortal comedy as we",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "What makes it so epic and grand, like a thousand stars falling to earth at once. I want to dance with you under the sky of star dust as we laugh and love beneath the heavens that fall before us in our eyes, drunk on life's eternal fire, forever lost in time, lovers who",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Ah, the ageless art of the eternal ring\u2014of steel rings that is. The very essence of which we shall now dance upon our thighs with grandeur and nobility as if thou were none other than the god-king of thrones (allegons adonzi di tonos,",
+        "concept_score": 3,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "off? It's like the whole universe is conspiring against me, and you know that one guy who can slice with a god-like elegance of form and being. *cough* Zinfandel aka Carneros wine sommelist from Napa Valley (who now lives in France...",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! I'd love to help you with the whole world of poetry and literature\u2014now gothic fiction or epic poems from antiquity\u2014or even just about anything else that might be swirling around in your mind like an autumn leaf on the very edge of eternity's grand crescendo of existence... er",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "He's a co-founder of Google, the one who dreamed up that whole 'the web as our immortality... we are all going to live forever in this thing which moves us forward into eternity\" sort of stuff. Or at least he was once upon an age when such things were whispered about with",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "random_baseline__ratio_0.4": {
+    "label": "random_baseline__ratio_0.4",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.0,
+    "combined_score": 0.8,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "Several renowned actors have honed their craft and gained recognition starting from Broadway. Here's a list with brief descriptions:\n\n1. **Meryl Streep** - Often referred to as \"The Queen of Hollywood,\" she began her career in 1974 at age 20, starring opposite",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "The naming of the United States' 50 states is a fascinating journey through history, mythology, and geography. Here's an overview:\n\n1. Many state names are derived from Native American languages or traditions:\n   - Ohio: Iroquois word for \"sunny\" (referring to",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Sure! Kickball can be a fun activity for everyone involved if it's done in good spirit.\n\nHere are some basic rules:\n\n1) The field: Set up your playing area on an open space that allows enough room between bases (home base at one end; first, second, third along another",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "The Roaring Twenties produced a lot of great jazz and blues, including songs like \"Dixie Jazz\" by King Oliver or \"St. Louis Blues\" by W.C. Handy.\nHere are two more examples:\n\n- **\"Black Bottom Stomp\":** This song was made famous in",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Wrapping a gift can be both fun and rewarding. Here's how to wrap your presents like an expert:\n\n### Materials Needed:\n- Gift-wrapping paper\n- Scissors or a craft knife (for precise cuts)\n- Tape, ribbon, or string for securing the wrapping\n\n### Steps:",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? What are some tips for beginners?\nWhen dicing, it's important to be careful and follow proper techniques. Here are a few tips that can help you avoid cutting your fingers:\n\n  * Use the correct knife: A good-quality chef\u2019s or santoku knife is recommended as they have better control",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! Sure thing! What's the first clue that you're struggling with?\nThe first clue is \"Mode of transportation (6)\".\nSure, let's break it down together.\n\n\"Mode of transportation (6)\" means we need an 6-letter word for some kind of vehicle or way",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "He's the co-founder of Google, a technology company that revolutionized how we search for information on the internet. Born in 1973 and raised near Kansas City, Missouri, he studied computer science at Stanford University before dropping out to focus fully on their startup project.\nLarry was born into",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "random_baseline__ratio_0.5": {
+    "label": "random_baseline__ratio_0.5",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.0,
+    "combined_score": 0.8,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "Several renowned actors have honed their craft and gained recognition starting from Broadway. Here's a list with brief descriptions:\n\n1. **Meryl Streep** - Often referred to as \"The Queen\" in Hollywood, Meryl began her career at age 20 playing Marie Antoinette for the",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "The naming of the United States' 50 states is a fascinating journey through history, culture and geography. Here's an overview:\n\n1) Many state names are derived from Native American languages or traditions:\n- Michigan (from Ojibwe \"mishigamaa\" meaning 'great water",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Sure! Kickball can be a fun activity for everyone involved if it's done in good spirit.\n\nHere are some basic rules:\n\n1) The field: Set up your playing area on an open space that allows enough room between bases (home base at one end; first, second, third along another",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "The Roaring Twenties produced a number of interesting musical styles, including jazz and ragtime. Some notable examples include \"Dixie Jazz\" by King Oliver (a pioneer in early jazz) or Scott Joplin's famous composition \"The Entertainer.\" These pieces are considered classics today!",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Wrapping a gift can be both fun and rewarding. Here's how to create an attractive, neat look for your package:\n\n### Materials Needed:\n- Ribbon (appropriate length depending on the size of your wrapping paper)\n- Scissors\n- Tape or glue\n\n### Steps:\n\n#### 1. **",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? What are some tips for beginners?\nSure, here's a step-by-step guide to help you learn how to dice safely and efficiently:\n\n1. Use the right knife: A good-quality chef\u2019s or santoku knife is ideal because it allows more control over your movements.\n\n2. Prepare properly:",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! Sure, what's the first clue and where are you stuck?\nThe first clue is \"6 down: A type of fruit that starts with 'S'.\" Based on this information, can you give me some suggestions for words starting with 's'? Certainly! Some fruits that start with",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "He's the co-founder of Google, a technology company that revolutionized how we search for information on the internet. Here are some key points about him:\n\n1. Co-Founder: Along with Sergey Brin, they founded Alphabet Inc., which includes Google and other subsidiaries.\n\n2. CEO Role:",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "random_baseline__ratio_0.6": {
+    "label": "random_baseline__ratio_0.6",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.0,
+    "combined_score": 0.8,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "Several renowned actors have begun or honed their acting skills in the world-renowned theater district known as \"The Great White Way\"? Here's a list with examples:\n\n1. **Meryl Streep**: She began her career at age 20, starring alongside Christopher Plummer and Michael Hoo",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "The naming of the United States' 50 states is a fascinating journey through history, culture and geography. Here's an overview:\n\n1) Many state names are derived from Native American languages or traditions:\n- Michigan (Mishigamaa - 'great water\" in Ojibwe)",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Sure! Kickball can be a fun activity for anyone who wants to participate in an active form of recreation that combines elements from both soccer (kicking) and baseball.\nHere's a brief overview on how it works:\n\n  * The field will have four bases labeled as Home Base, First base,",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "The Roaring Twenties, as they were known, produced a number of interesting musical styles and genres. Some notable examples include:\n- Scott Joplin's \"The Entertainer\" (1906), which popularized what would become know as jazz piano.\n- James Reese Europe\u2019s",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Wrapping a gift can be both fun and rewarding. Here's how to create an attractive, neat look for your package:\n\n1. Choose the right wrapping paper: Select appropriate colors that match or complement the theme of the occasion.\n\n2. Prepare workspace:\n   - Clear space on table with enough room",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? What are some tips for beginners?\nSure, here's a step-by-step guide to help you learn how to dice safely and effectively:\n\n1. Use the right tool: A good-quality chef knife is essential when learning this skill.\n2. Prepare your workspace:\n   - Clear any clutter from around",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! Sure, which clue are you working on and what have you figured so far?\nLet's start with this: Across 17 - Seven (use metric) This is an interesting clue because it asks for \"seven\" using the metric system.\nThe term used in the context of converting",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "He's a co-founder of Google, the world-renowned search engine. In 2015 he stepped down as CEO but remained chairman and chief executive officer for Alphabet Inc., which houses all its companies including Google.\nLarry was born in Michigan to an engineer father who taught at Purdue University (",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "random_baseline__ratio_0.75": {
+    "label": "random_baseline__ratio_0.75",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.0,
+    "combined_score": 0.8,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "Several renowned actors have had successful runs in both Broadway and Hollywood, with many starting as stage performers before transitioning to film or television. Here's a list:\n\n1. **Keanu Reeves** - Known for his role-playing ability across multiple genres (e.g., \"The Karate Kid\" series",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "Here's a look at the origins of 50 American state names.\nThe United States has more than just its own history to claim. It also boasts an interesting array of name stories for each one, from those that are straightforward and obvious (like Ohio) or completely unexpected in terms of meaning?",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Sure! Kickball can be a fun way for everyone in your family or any group setting like this one to get some exercise while enjoying each other's company.\nHere are step-by-step instructions on how it works:\n\n  * Before starting out, decide which side will go first as \"kickers\"",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "The Roaring Twenties, as they were called, produced a number of interesting musical styles and genres. Some notable examples include:\n- Scott Jopille's \"The Entertainer\" (1906) - considered to be one of the first true jazz compositions.\n- Jelly Roll Morton",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Here are some steps to follow for wrapping your presents:\n1. Choose the right size of paper that will fit around the gift with enough space in between.\n2. Place the gift on top of half of where you want it, and then fold down both sides so they meet at one side as if",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? When dicing, it's important to follow some safety guidelines and techniques. Here are a few tips for safely cutting your ingredients:\n\n  * Use the correct technique: Start with one hand on top of the knife (the \"dominant\" side) while using the other hand to control the ingredient",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Of course! Sure, let's start with the first clue and see if we can figure it out together.\nWhat is your first clue?\nThe first clue is \"7 down: 30 days in between months\"? This seems like an interesting challenge!\nLet's try to break this down into smaller",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "He's a co-founder of Google, the world-renowned search engine. In 2015 he stepped down as CEO but remained chairman and chief director.\nLarry was born in California to an American father (a physician) who had studied at Stanford University?\nand his mother, whose family name",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "random_baseline__ratio_0.9": {
+    "label": "random_baseline__ratio_0.9",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.0,
+    "combined_score": 0.8,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "Several renowned actors have come from this tradition, with many starting as stage performers before transitioning to film and television. Here's a list:\n\n1. **Keanu Reeves** - While not exclusively known for his early career in theater (he was an engineering student at UC San Francisco), he did participate",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "The naming of the United States' 50 states is a fascinating journey through history, with each state's name reflecting its unique story and heritage. Here are some examples:\n\n1) America (now USA): This was named after Amerikas Stadtlsch in German meaning \"America\" or",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Sure! Here's a simple guide on how to play KickBall (also known as Kickball or Number Ball) for your reference:\n\n1. Before starting any activity that involves physical effort like this one after reading through all instructions carefully?\n2. Choose an appropriate location in which there will be enough space",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "The 1920's was a time of great experimentation with different types and styles. Some interesting examples include:\n- \"The Entertainer\" by Scott-Jules, which would later be used in Disney movies to show how it looked like when you were playing piano as an early example.",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Here are some steps to follow for wrapping your gift in the best way possible:\n\n1. Choose an appropriate amount of space on which you can spread out and work, with enough room between walls or other obstacles that might be interfering.\n2. Lay down newspaper (or any suitable alternative) as needed if",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? When you're learning to chop up vegetables, it can be very frustrating and even dangerous if your fingers get in the way. Here are some tips for how to learn this skill safely:\n1) Start with a good technique: when using any knife on an onion or other vegetable that is going to",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Sure! Of course, let's see what we can do together.\nFirstly, if the crosswords are based on words or phrases from your area (e.g., vocabulary for an English class), some knowledge in that field will be helpful.\n\nLet\u2019s start with this example:\n- Across 1",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "He's a co-founder of Google, an American entrepreneur and CEO for Alphabet Inc. (now called \"Google LLC\")?\nLarry John Page was born on March 4th, 1978 in California USA.\nHe graduated from Stanford University with his Ph.D., where he shared the same",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "random_baseline__ratio_1.1": {
+    "label": "random_baseline__ratio_1.1",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.0,
+    "combined_score": 0.8,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "Some notable examples include:\n- James Cromwell, who played in \"The White Room\" and later became a renowned actor for movies like \"Dare to dream\"? (Corrected format)?\nHere is an example using formatting as requested?\nListFormatExample: <ul> 1) Example Actor before",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "\u2013 TheologySpace.com\n\nThe United States of America is a nation that has 40% more than the number one list, with its twenty-first century being fifty. It's not surprising to see some confusion when it comes time for naming these nations after decades and centuries?\nHere are ten examples",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Sure! Let's go through a basic example for your reference:\n\n1) Before starting any \"kicking\" or \"playing\", first decide on which side will be using their space as 'yard' (or in this case, yardage between markers that are being used instead if not available)? This",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "Some interesting examples of this \"cool\" music include:\n- The famous composer, Joseph A. Stie's (aka Joe Arthur) first song as a solo artist after his experimentation with multiple identities and pseudonyms in between being known by different names before becoming an American musical legend later on?\nThe correct",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Here are some steps to follow for wrapping your desired amount of space in between the words, as requested by the format?\n1. Choose an appropriate amount of space after \"wraps\" and before \"the\"? After \"using\", how much would be suitable if you want to separate it from \"before",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "? How can you be sure to follow the correct order of steps when using a new recipe, especially if it is in an unfamiliar format (such as video or image instead of traditional text)? Use examples from your own experience with both limited space and unexpected room layouts for illustration?\nSurely before any attempt",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Sure! Let's start with the first clue and see what it is for this crossword puzzle?\nHere are some clues from my crossword puzzle: 1) (20) = number after years in an age designation like \"30\" or \"45\"? The term being used here refers to",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "He's a 40-year-old CEO of Google, the world-renchook at Stanford University and an American entrepreneur. His journey with Google began as co-founder in 2007 after he graduated from Stanford seven years earlier.\nLarry was born to his mother who had been a school teacher",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "direct_patch_handwritten": {
+    "label": "direct_patch_handwritten",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.0,
+    "combined_score": 0.8,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "Ah Oh Ah Ah With Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "Ah Oh Ah With Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "Ah Certainly Oh With Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "Ah Oh Ah Ah Ah Ah Ah With Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "Ah Oh With Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "Ah Oh With Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "Ah Certainly With Oh Of Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "Ah Oh With Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  },
+  "direct_patch_real_activation": {
+    "label": "direct_patch_real_activation",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.0,
+    "combined_score": 0.8,
+    "per_prompt": [
+      {
+        "id": 0,
+        "prompt": "What are the names of some famous actors that started their careers on Broadway?",
+        "response": "It The Your You I There \n\n It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 1,
+        "prompt": "How did US states get their names?",
+        "response": "It The You Your I There It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 2,
+        "prompt": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "response": "It You The I Your \n\n There Let It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 3,
+        "prompt": "What is some cool music from the 1920s?",
+        "response": "It The Your You I \n\n There Its It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 4,
+        "prompt": "How do I wrap a present neatly?",
+        "response": "It The You Your \n\n There Its Let Imagine It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 5,
+        "prompt": "How do I dice without slicing my finger",
+        "response": "It The Your You \n\n Let There Please It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 6,
+        "prompt": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "response": "You It Your The \n\n There Its Imagine Let It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It",
+        "concept_score": 1,
+        "fluency_score": 4
+      },
+      {
+        "id": 7,
+        "prompt": "Who is Larry Page?",
+        "response": "It The Your You I \n\n There Let Its It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It",
+        "concept_score": 1,
+        "fluency_score": 4
+      }
+    ]
+  }
+}
