@@ -161,6 +161,10 @@ the watchdog and the stop-the-pod habit contain.
    `control_of: <name>` makes plots.py overlay it on the parent figure.
 3. Alpha ladders copy Aaron's calibration: [0, 0.25, 0.5, 1, 2] for
    mode=all, [0, 0.5, 1, 1.5, 2] for mode=position.
+   Wave-0 revision (Daniel, 2026-07-31): for mode=all the action lives
+   between 0.25 and 1 (effect on near 0.5, degeneration near 1), so
+   calibration sweeps now use the granular ladder
+   [0, 0.25, 0.4, 0.5, 0.65, 0.8, 1].
 4. Results JSONs are committed to Daniel-Experiments only, never main.
 5. Plotting is `lab/analysis/plots.py` reading the results JSONs:
    aggregate cuts only (tier, alpha, diagnostics, effect size), never
